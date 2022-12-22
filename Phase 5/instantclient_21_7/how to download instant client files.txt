@@ -1,0 +1,11 @@
+For running the given script "phase5.py" you need to download instant client files 
+in order to connect to the omega server and sqlplus. 
+
+You can download the instant client files from the following link depending on your
+system requirements:
+https://www.oracle.com/in/database/technologies/instant-client.html
+
+OR you can download it from the below link. The link below is the instant client folder
+that I have used on the test system. (Windows 11, 64 bit)
+
+https://www.dropbox.com/sh/fl233sm8svbgt49/AABXpiG5yL-1xCls02ZUnXGCa?dl=0
